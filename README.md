@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboycdw&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=gboycdw&show_icons=true">
 <!--
 **gboycdw/gboycdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
