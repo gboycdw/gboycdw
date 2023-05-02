@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboycdw&layout=compact">
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboycdw&layout=compact">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gboycdw&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=gboycdw&show_icons=true"></a>
 
 
 
