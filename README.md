@@ -1,16 +1,26 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboycdw&layout=compact" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api?username=gboycdw&show_icons=true" width="52%">
+    <img src="https://github-readme-stats.vercel.app/api?username=gboycdw&show_icons=true" height=181px>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboycdw&layout=compact" height=181px>
+    
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gboycdw&theme=github&utcOffset=8" height=180px>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gboycdw&theme=vue" height=180px>
 </div>
 
 
+<!--방문자수-->
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgboycdw%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Gomao%27s+Github&edge_flat=false"/></a>
+</div>
 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgboycdw%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-
-
-
+<!--미사용 파일 모음
+연속커밋기록 <img src= "https://streak-stats.demolab.com/?user=gboycdw&theme=default" height=160px>
+커밋그래프 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gboycdw&theme=github">
+레포지토리 분석1 img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gboycdw&theme=github&exclude=Java">
+커밋 분석1 img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gboycdw&theme=github&exclude=Java">
+-->
 
 <!--
 **gboycdw/gboycdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
