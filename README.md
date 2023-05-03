@@ -3,10 +3,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboycdw&layout=compact" height=181px>
     
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gboycdw&theme=github&utcOffset=8" height=180px>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gboycdw&theme=vue" height=180px>
-</div>
+</div> -->
 
 
 <!--방문자수-->
