@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=gboycdw&show_icons=true&theme=vue" height="190px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboycdw&layout=compact&langs_count=8&theme=vue" height="190px">
-    <img src="https://github-profile-trophy.vercel.app/?username=gboycdw&title=Commits,PullRequest&column=1" height="190px">
+    <img src="https://github-readme-stats.vercel.app/api?username=gboycdw&show_icons=true&theme=vue" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboycdw&layout=compact&langs_count=8&theme=vue" height="150px">
+    <img src="https://github-profile-trophy.vercel.app/?username=gboycdw&title=Commits,PullRequest,Reviews,Issues&column=2" height="150px">
 </div>
 
 <!-- <div align="center">
