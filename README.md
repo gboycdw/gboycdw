@@ -3,6 +3,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gboycdw&theme=default&utcOffset=8" height="180px">
 </div>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!-- <div align="center">
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=gboycdw&show_icons=true&theme=vue" height=140px>
