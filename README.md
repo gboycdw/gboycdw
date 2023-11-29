@@ -1,22 +1,22 @@
-<div align="center" style=" justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=gboycdw&show_icons=true&theme=vue" height="180px">
+<div align="center" style=" justify-content: center;"> 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gboycdw&theme=github&exclude=Java" height="180px">
-<!--     <img src="https://github-profile-trophy.vercel.app/?username=gboycdw&title=Commits,PullRequest,Reviews,Issues&column=2&no-frame=true" height="150px"> -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gboycdw&theme=default&utcOffset=8" height="180px">
 </div>
 
 <!-- <div align="center">
     <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=gboycdw&show_icons=true&theme=vue" height=140px>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboycdw&layout=compact&langs_count=8&theme=vue" height=140px>
-        </div>
+        <img src="https://github-readme-stats.vercel.app/api?username=gboycdw&show_icons=true&theme=vue" height=140px>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboycdw&layout=compact&langs_count=8&theme=vue" height=140px>
+    </div>
     <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=gboycdw&title=Commits,PullRequest,Issues,Reviews&row=3"></div>
+        <img src="https://github-profile-trophy.vercel.app/?username=gboycdw&title=Commits,PullRequest,Issues,Reviews&row=3">
+    </div>
 </div> -->
 <!-- Repositories, Stars 등 추가 세팅이 있다. -->
 
 <!-- <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gboycdw&theme=github&utcOffset=8" height=180px>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gboycdw&theme=vue" height=180px>
+  
+  
 </div> -->
 
 <!--방문자수-->
@@ -26,11 +26,13 @@
 
 
 <!--미사용 파일 모음
+커밋 시간 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gboycdw&theme=github&utcOffset=8" height=180px>
+등급표 <img src="https://github-readme-stats.vercel.app/api?username=gboycdw&show_icons=true&theme=vue" height="180px">
 언어사용빈도 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboycdw&layout=compact&langs_count=8&theme=vue" height="180px">
 연속커밋기록 <img src= "https://streak-stats.demolab.com/?user=gboycdw&theme=default" height=160px>
 커밋그래프 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gboycdw&theme=github">
-레포지토리 분석1 img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gboycdw&theme=github&exclude=Java">
-
+레포지토리 분석1 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gboycdw&theme=github&exclude=Java">
+레포지토리 분석2 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gboycdw&theme=github&exclude=Java" height="180px">
 -->
 
 <!--
