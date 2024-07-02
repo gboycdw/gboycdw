@@ -1,6 +1,6 @@
 <div align="center" style=" justify-content: center;"> 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gboycdw&theme=github&exclude=Java" height="180px">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gboycdw&theme=default&utcOffset=8" height="180px">
+<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gboycdw&theme=github&exclude=Java" height="180px"> -->
+<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gboycdw&theme=default&utcOffset=8" height="180px"> -->
 </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -33,7 +33,7 @@
 언어사용빈도 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboycdw&layout=compact&langs_count=8&theme=vue" height="180px">
 연속커밋기록 <img src= "https://streak-stats.demolab.com/?user=gboycdw&theme=default" height=160px>
 커밋그래프 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gboycdw&theme=github">
-레포지토리 분석1 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gboycdw&theme=github&exclude=Java">
+레포지토리 분석1 
 레포지토리 분석2 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gboycdw&theme=github&exclude=Java" height="180px">
 -->
 
